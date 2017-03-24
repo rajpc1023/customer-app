@@ -1,0 +1,4 @@
+div.lock-height {
+    height: 250px;
+    overflow-y: scroll;
+}
